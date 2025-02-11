@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d0308ee7.css",
-    "main.js": "/static/js/main.f4dbd8a0.js",
+    "main.js": "/static/js/main.04ebc3de.js",
     "static/js/488.205792a3.chunk.js": "/static/js/488.205792a3.chunk.js",
     "static/media/1.png": "/static/media/1.de5f59e0e3e2d1f73254.png",
     "static/media/datacenter.jpg": "/static/media/datacenter.49fd76f98d96dacb7342.jpg",
@@ -46,13 +46,13 @@
     "static/media/rocket.png": "/static/media/rocket.5cc856354a0b0406b2e3.png",
     "static/media/above-text.png": "/static/media/above-text.99d5df9452ebd60bf592.png",
     "static/media/rocket-ko.png": "/static/media/rocket-ko.adf2270e2ad31b03f13e.png",
-    "static/media/computing-ko.png": "/static/media/computing-ko.c70c272031a661e69dc2.png",
     "static/media/co2-ko.png": "/static/media/co2-ko.f79371fb424533708a8c.png",
     "static/media/home.png": "/static/media/home.f63476d41314d3351fe0.png",
     "static/media/bulb.png": "/static/media/bulb.8db0f0b5027a4a0bff54.png",
-    "static/media/thermal-ko.png": "/static/media/thermal-ko.a62c35a6c60f5a1e9bde.png",
-    "static/media/cooling-ko.png": "/static/media/cooling-ko.244811bee710cdc3633c.png",
+    "static/media/computing-ko.png": "/static/media/computing-ko.bcd98dcb812454beaafc.png",
+    "static/media/thermal-ko.png": "/static/media/thermal-ko.ef73e56e681778f7f22c.png",
     "static/media/thermal.png": "/static/media/thermal.49d76562dfcf24085589.png",
+    "static/media/cooling-ko.png": "/static/media/cooling-ko.07bef2fb20007b5d579f.png",
     "static/media/chip-text-ko.png": "/static/media/chip-text-ko.f16e3f6b4473c39851d7.png",
     "static/media/IMMC-1.png": "/static/media/IMMC-1.530cd6b6e552ba847814.png",
     "static/media/cooling.png": "/static/media/cooling.0a5a2bbffab67efecdf5.png",
@@ -62,11 +62,11 @@
     "static/media/bulb-ko.png": "/static/media/bulb-ko.55fed5a4e0dbd712dd23.png",
     "index.html": "/index.html",
     "main.d0308ee7.css.map": "/static/css/main.d0308ee7.css.map",
-    "main.f4dbd8a0.js.map": "/static/js/main.f4dbd8a0.js.map",
+    "main.04ebc3de.js.map": "/static/js/main.04ebc3de.js.map",
     "488.205792a3.chunk.js.map": "/static/js/488.205792a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0308ee7.css",
-    "static/js/main.f4dbd8a0.js"
+    "static/js/main.04ebc3de.js"
   ]
 }
