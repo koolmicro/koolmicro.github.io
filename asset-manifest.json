@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.60843aaf.css",
-    "main.js": "/static/js/main.e8e49336.js",
+    "main.js": "/static/js/main.eb9d0cca.js",
     "static/js/488.205792a3.chunk.js": "/static/js/488.205792a3.chunk.js",
     "static/media/1.png": "/static/media/1.de5f59e0e3e2d1f73254.png",
     "static/media/datacenter.jpg": "/static/media/datacenter.49fd76f98d96dacb7342.jpg",
@@ -33,22 +33,16 @@
     "static/media/3-ko.png": "/static/media/3-ko.64bd33064b0943fe9935.png",
     "static/media/bg.png": "/static/media/bg.5e9277ead4480880b724.png",
     "static/media/6.jpg": "/static/media/6.a6cdd65752b35b0bd047.jpg",
-    "static/media/rocket.png": "/static/media/rocket.5cc856354a0b0406b2e3.png",
-    "static/media/bulb.png": "/static/media/bulb.8db0f0b5027a4a0bff54.png",
-    "static/media/thermal.png": "/static/media/thermal.49d76562dfcf24085589.png",
     "static/media/cooling.png": "/static/media/cooling.0a5a2bbffab67efecdf5.png",
     "static/media/koolmicro2.png": "/static/media/koolmicro2.39372674089d643f6fd2.png",
     "static/media/eco.png": "/static/media/eco.7cfafffee0658284e7f7.png",
-    "static/media/co2.png": "/static/media/co2.b822c03550a1efbc64ec.png",
-    "static/media/rocket-ko.png": "/static/media/rocket-ko.ddf1b62e8bb4d8dd33e2.png",
-    "static/media/co2-ko.png": "/static/media/co2-ko.ff7737f11359df4b4b4e.png",
     "index.html": "/index.html",
     "main.60843aaf.css.map": "/static/css/main.60843aaf.css.map",
-    "main.e8e49336.js.map": "/static/js/main.e8e49336.js.map",
+    "main.eb9d0cca.js.map": "/static/js/main.eb9d0cca.js.map",
     "488.205792a3.chunk.js.map": "/static/js/488.205792a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60843aaf.css",
-    "static/js/main.e8e49336.js"
+    "static/js/main.eb9d0cca.js"
   ]
 }
