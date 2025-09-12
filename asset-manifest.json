@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.06dc6ab2.css",
-    "main.js": "/static/js/main.f92e8367.js",
-    "static/js/488.205792a3.chunk.js": "/static/js/488.205792a3.chunk.js",
+    "main.css": "/static/css/main.b9c09f61.css",
+    "main.js": "/static/js/main.016138f8.js",
+    "static/js/488.936114b4.chunk.js": "/static/js/488.936114b4.chunk.js",
     "static/media/1.png": "/static/media/1.c09941cb2a8f7dfa06d6.png",
     "static/media/datacenter.jpg": "/static/media/datacenter.49fd76f98d96dacb7342.jpg",
     "static/media/cpu.jpg": "/static/media/cpu.3dc19705cf74ce4567ec.jpg",
@@ -18,22 +18,19 @@
     "static/media/career-banner.jpg": "/static/media/career-banner.2421da521e59b2a94cf8.jpg",
     "static/media/2.png": "/static/media/2.55115710a9565d36befe.png",
     "static/media/side.png": "/static/media/side.424e6790bac3b2ae1710.png",
-    "static/media/patent.png": "/static/media/patent.3cfbf31e33e5904622f9.png",
-    "static/media/1.jpg": "/static/media/1.4b0d5b178d2ceed9f7e3.jpg",
     "static/media/2-ko.png": "/static/media/2-ko.6819d97f995cf87361f0.png",
     "static/media/3.png": "/static/media/3.43c81369e7ba3db63ee7.png",
-    "static/media/test-cover.jpg": "/static/media/test-cover.6f41a74bb7dab331ce53.jpg",
     "static/media/bg.png": "/static/media/bg.5e9277ead4480880b724.png",
     "static/media/cooling.png": "/static/media/cooling.0a5a2bbffab67efecdf5.png",
     "static/media/koolmicro2.png": "/static/media/koolmicro2.39372674089d643f6fd2.png",
     "static/media/eco.png": "/static/media/eco.7cfafffee0658284e7f7.png",
     "index.html": "/index.html",
-    "main.06dc6ab2.css.map": "/static/css/main.06dc6ab2.css.map",
-    "main.f92e8367.js.map": "/static/js/main.f92e8367.js.map",
-    "488.205792a3.chunk.js.map": "/static/js/488.205792a3.chunk.js.map"
+    "main.b9c09f61.css.map": "/static/css/main.b9c09f61.css.map",
+    "main.016138f8.js.map": "/static/js/main.016138f8.js.map",
+    "488.936114b4.chunk.js.map": "/static/js/488.936114b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06dc6ab2.css",
-    "static/js/main.f92e8367.js"
+    "static/css/main.b9c09f61.css",
+    "static/js/main.016138f8.js"
   ]
 }
