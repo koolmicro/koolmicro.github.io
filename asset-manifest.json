@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e12b4445.css",
-    "main.js": "/static/js/main.68e8dad2.js",
+    "main.css": "/static/css/main.8118b5d1.css",
+    "main.js": "/static/js/main.afaf5581.js",
     "static/js/488.936114b4.chunk.js": "/static/js/488.936114b4.chunk.js",
     "static/media/1.png": "/static/media/1.c09941cb2a8f7dfa06d6.png",
     "static/media/datacenter.jpg": "/static/media/datacenter.49fd76f98d96dacb7342.jpg",
@@ -12,7 +12,6 @@
     "static/media/gpu.jpg": "/static/media/gpu.31c9a30419edfb7dfa6a.jpg",
     "static/media/above.png": "/static/media/above.d0f53cb895b1f876053a.png",
     "static/media/product-banner.jpg": "/static/media/product-banner.e1031b913a98f2c6ef76.jpg",
-    "static/media/chip2.png": "/static/media/chip2.2448185484a7a4246345.png",
     "static/media/chip.png": "/static/media/chip.f6e57c12377c8ced5c9e.png",
     "static/media/news-banner.jpg": "/static/media/news-banner.51d5991176256f49c96b.jpg",
     "static/media/career-banner.jpg": "/static/media/career-banner.2421da521e59b2a94cf8.jpg",
@@ -25,12 +24,12 @@
     "static/media/koolmicro2.png": "/static/media/koolmicro2.39372674089d643f6fd2.png",
     "static/media/eco.png": "/static/media/eco.7cfafffee0658284e7f7.png",
     "index.html": "/index.html",
-    "main.e12b4445.css.map": "/static/css/main.e12b4445.css.map",
-    "main.68e8dad2.js.map": "/static/js/main.68e8dad2.js.map",
+    "main.8118b5d1.css.map": "/static/css/main.8118b5d1.css.map",
+    "main.afaf5581.js.map": "/static/js/main.afaf5581.js.map",
     "488.936114b4.chunk.js.map": "/static/js/488.936114b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e12b4445.css",
-    "static/js/main.68e8dad2.js"
+    "static/css/main.8118b5d1.css",
+    "static/js/main.afaf5581.js"
   ]
 }
