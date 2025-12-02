@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.59a019dc.css",
-    "main.js": "/static/js/main.49b34575.js",
+    "main.js": "/static/js/main.7dee695f.js",
     "static/js/488.5d774d62.chunk.js": "/static/js/488.5d774d62.chunk.js",
     "static/media/1.png": "/static/media/1.d593a2a7e9d41a2260ac.png",
     "static/media/datacenter.jpg": "/static/media/datacenter.49fd76f98d96dacb7342.jpg",
@@ -18,18 +18,18 @@
     "static/media/2.png": "/static/media/2.55115710a9565d36befe.png",
     "static/media/side.png": "/static/media/side.424e6790bac3b2ae1710.png",
     "static/media/2-ko.png": "/static/media/2-ko.6819d97f995cf87361f0.png",
-    "static/media/3.png": "/static/media/3.43c81369e7ba3db63ee7.png",
+    "static/media/3.png": "/static/media/3.a171b71d25b9205140c3.png",
     "static/media/bg.png": "/static/media/bg.5e9277ead4480880b724.png",
     "static/media/cooling.png": "/static/media/cooling.0a5a2bbffab67efecdf5.png",
     "static/media/koolmicro2.png": "/static/media/koolmicro2.39372674089d643f6fd2.png",
     "static/media/eco.png": "/static/media/eco.7cfafffee0658284e7f7.png",
     "index.html": "/index.html",
     "main.59a019dc.css.map": "/static/css/main.59a019dc.css.map",
-    "main.49b34575.js.map": "/static/js/main.49b34575.js.map",
+    "main.7dee695f.js.map": "/static/js/main.7dee695f.js.map",
     "488.5d774d62.chunk.js.map": "/static/js/488.5d774d62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59a019dc.css",
-    "static/js/main.49b34575.js"
+    "static/js/main.7dee695f.js"
   ]
 }
