@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.75d011c3.css",
-    "main.js": "/static/js/main.9cb566d9.js",
+    "main.js": "/static/js/main.2ceda207.js",
     "static/js/488.5d774d62.chunk.js": "/static/js/488.5d774d62.chunk.js",
     "static/media/1.png": "/static/media/1.d593a2a7e9d41a2260ac.png",
     "static/media/datacenter.jpg": "/static/media/datacenter.49fd76f98d96dacb7342.jpg",
@@ -14,10 +14,10 @@
     "static/media/product-banner.jpg": "/static/media/product-banner.e1031b913a98f2c6ef76.jpg",
     "static/media/chip.png": "/static/media/chip.f6e57c12377c8ced5c9e.png",
     "static/media/news-banner.jpg": "/static/media/news-banner.51d5991176256f49c96b.jpg",
+    "static/media/2.png": "/static/media/2.15a884fc2a0cf125c1d3.png",
     "static/media/career-banner.jpg": "/static/media/career-banner.2421da521e59b2a94cf8.jpg",
-    "static/media/2.png": "/static/media/2.55115710a9565d36befe.png",
+    "static/media/2-ko.png": "/static/media/2-ko.b89479909f9dbd979381.png",
     "static/media/side.png": "/static/media/side.424e6790bac3b2ae1710.png",
-    "static/media/2-ko.png": "/static/media/2-ko.6819d97f995cf87361f0.png",
     "static/media/3.png": "/static/media/3.a171b71d25b9205140c3.png",
     "static/media/bg.png": "/static/media/bg.5e9277ead4480880b724.png",
     "static/media/cooling.png": "/static/media/cooling.0a5a2bbffab67efecdf5.png",
@@ -25,11 +25,11 @@
     "static/media/eco.png": "/static/media/eco.7cfafffee0658284e7f7.png",
     "index.html": "/index.html",
     "main.75d011c3.css.map": "/static/css/main.75d011c3.css.map",
-    "main.9cb566d9.js.map": "/static/js/main.9cb566d9.js.map",
+    "main.2ceda207.js.map": "/static/js/main.2ceda207.js.map",
     "488.5d774d62.chunk.js.map": "/static/js/488.5d774d62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75d011c3.css",
-    "static/js/main.9cb566d9.js"
+    "static/js/main.2ceda207.js"
   ]
 }
